@@ -1,3 +1,7 @@
+# Yang testing
+yang_models/
+test.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
